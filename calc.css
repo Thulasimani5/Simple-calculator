@@ -1,0 +1,32 @@
+h1 {
+    color: brown;
+    text-align: center;
+  }
+div
+{
+    text-align: center;
+}
+button {
+    size: 10cm;
+    background-color:rgb(12, 36, 47);
+    color: white;
+    border: 10px solid #95de0d;
+    padding: 22px 32px;
+    text-align: center;
+    font-size: 24px;
+    border-radius: 30px;
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(18, 81, 182, 0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 1px rgb(10, 94, 127);
+    text-decoration: none;
+    display: inline-block;
+  }
+  button:active {
+    background-color: #dbe0e97b;
+    box-shadow: 0 5px #0c0f0f;
+    transform: translateY(4px);
+  }
+  t1
+  {
+    font-size: 20px;
+  }
